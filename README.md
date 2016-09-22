@@ -1,9 +1,9 @@
 # Unity3d-Admob-android-plugin
-
-
-Pred časom, Google vydal nový Google Play Services plugin. Tento plugin je potrebný na zobrazenie reklamy v naších hrách. Ukážeme si ako spraviť wrappovaciu dll v java aby sme mohli tento plugin použiť v unity3d.
-
-Interstitial Ads je reklama, ktorá sa zobrazi na celej obrazovke. Užívateľ na ňu buď klikne, alebo ju zatvorí a vráti sa k hre. Ak sa chcete dozvedieť viac o Interstitials kliknite sem.
+==============================
+The Google Mobile Ads SDK is the latest generation in Google mobile advertising
+featuring refined ad formats and streamlined APIs for access to mobile ad
+networks and advertising solutions. The SDK enables mobile app developers to
+maximize their monetization in native mobile apps.
 
 Podmienky :
 
@@ -12,4 +12,10 @@ Podmienky :
     Android SDK Tools
     Android Play Services plugin, ktorý stiahneme použitím Android SDK Manageru.
     Android SDK
+
+Documentation
+--------------
+For instructions on using the plugin, please refer to
+[this developer guide](https://www.projectik.eu/index.php/programovanie/unity3d/item/249-unity3d-admob-android-plugin-google-play-services-interstitial-ads).
+
 
